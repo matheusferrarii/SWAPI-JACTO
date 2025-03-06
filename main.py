@@ -3,7 +3,7 @@ from funcoes import listar_personagens, detalhar_um_personagem, filtrar_por_gên
 
 
 while True:
-    print(f"{"_"*30}Seja bem-vindo a sua central de controle Star Wars{"_"*30}")
+    print("_"*30 + "Seja bem-vindo a sua central de controle Star Wars" + "_"*30)
     perguntas = int(input(""" 
 Aqui, você pode:
     1️⃣ Visualizar os 10 primeiros personagens da saga.
