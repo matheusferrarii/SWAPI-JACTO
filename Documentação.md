@@ -17,8 +17,8 @@ Para interagir com o sistema, abra o terminal e insira o número correspondente 
 Dentro de cada funcionalidade, você verá opções adicionais. Para selecionar uma delas, basta inserir o número correspondente à opção desejada.
 Se sua pesquisa for sobre um personagem específico, insira apenas o ID do personagem. O ID pode ser encontrado no catálogo de personagens, acessível na funcionalidade 2 (Detalhar um personagem).
 Se sua pesquisa for sobre filmes, insira o número do filme que deseja consultar. O número do filme pode ser visualizado no catálogo de filmes, acessível na funcionalidade 4 (Descobrir em quais filmes seu personagem favorito aparece).
-Caso tenha alguma dúvida, acesse o vídeo demonstrativo:
-https://youtu.be/N57R9QTC2_E
+Caso tenha alguma dúvida ou queira saber o raciocínio utilizado, acesse o vídeo:
+https://youtu.be/ac7Mc_vS2OI
 
 Como está estruturado:
 O projeto está dividido em dois arquivos principais:
